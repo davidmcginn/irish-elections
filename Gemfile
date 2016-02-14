@@ -27,6 +27,8 @@ gem 'friendly_id', '~> 5.1.0'
 
 gem 'acts_as_api'
 
+gem 'twitter'
+
 # Use phony_rails to format phone numbers
 gem 'phony_rails'
 
